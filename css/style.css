@@ -272,7 +272,7 @@ body {
       top: 0;
       left: 0;
       background-image: linear-gradient(to right bottom, #f172a1, #e64398);
-      opacity: .4; }
+      opacity: .1; }
     .results__fig img,
     .likes__fig img {
       display: block;
