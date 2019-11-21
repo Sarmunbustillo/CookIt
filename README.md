@@ -1,6 +1,6 @@
 # CookIt!
 
-It is a recipe finder, just search and the results will appear. 
+Recipe finder, just search and the results will appear. 
 
 Features:
  -possible to change the servings amount, the ingredients will dynamically increase or decrease respectively.
