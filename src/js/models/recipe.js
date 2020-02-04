@@ -11,7 +11,9 @@ export default class Recipe {
         try {
             //to get a recipe according to the API's documentation we use the URl https://www.food2fork.com/api/get 
             //be aware of the ending in 'get'. with the parameters key and recipes id 
-            const res = await axios(`${proxy}https://www.food2fork.com/api/get?key=${key}&rId=${this.id}`);
+            // old API that shut down... i leave there for educational purposes
+            // const res = await axios(`${proxy}https://www.food2fork.com/api/get?key=${key}&rId=${this.id}`);
+            const res = await axios(`https://forkify-api.herokuapp.com/api/get?rId=${this.id}`);
             //console.log(res);
            //save all the incoming data 
             this.title = res.data.recipe.title;
