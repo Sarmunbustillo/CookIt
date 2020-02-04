@@ -1,5 +1,7 @@
 # CookIt!
 
+UPDATE the free API food2fork which is the one i used has shut down. Therefore i need to update the API to a new one. Sorry about that, but the code is still there :)
+
 Recipe finder, just search and the results will appear. 
 
 Features:
