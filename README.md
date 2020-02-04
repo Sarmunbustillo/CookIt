@@ -8,5 +8,5 @@ Features:
  -like the recipes you want to save and check them later.
  
  
- I use a free API that only allows a certain amount of uses per day, so if you get the 'error proccessing the recipe" means that the limit has been reached and just gotta way a day! SORRY about that :(!
+ I use a free API that only allows a certain amount of uses per day, so if you get the 'error proccessing the recipe" means that the limit has been reached and just gotta wait a day! SORRY about that :(!
  
