@@ -1,6 +1,4 @@
 # CookIt!
-UPDATE -- the free api i used is no longer working, i will change it soon! so the app is not momentarily working but the code is still there 
-
 Recipe finder, just search and the results will appear. 
 
 Features:
